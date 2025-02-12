@@ -24,7 +24,7 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/m3g/Piccoli_Martinez_2025.jl.git",
+    repo = "github.com/m3g/Piccoli_Padua_Martinez_2025.jl.git",
     target = "build",
     branch = "gh-pages",
     versions = ["stable" => "v^", "v#.#"],
