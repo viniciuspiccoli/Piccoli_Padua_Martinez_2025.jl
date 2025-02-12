@@ -1,0 +1,4 @@
+# Piccoli_Padua_Martinez_2025
+
+[![Build Status](https://github.com/viniciuspiccoli/Piccoli_Padua_Martinez_2025.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/viniciuspiccoli/Piccoli_Padua_Martinez_2025.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/viniciuspiccoli/Piccoli_Padua_Martinez_2025.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/viniciuspiccoli/Piccoli_Padua_Martinez_2025.jl)
