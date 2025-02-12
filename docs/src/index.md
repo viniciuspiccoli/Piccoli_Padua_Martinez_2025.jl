@@ -26,9 +26,8 @@ Institute of Chemistry, Universidade Estadual de Campinas (UNICAMP).
 
 - Figures Sx–Sx. Description of the figures. 
 
-
 ---
 
-## Acknowledgements
+## Acknowledgements (adicionar agradecimentos adicionais necessários)
 
 The authors acknowledge the financial support of Fapesp (2018/24293-0, 2018/14274-9, 2020/04916-3), and CAPES 206-04/092018. Research developed with the Coaraci Supercomputer for computer time (Fapesp grant 2019/17874-0) and the Center for Computing in Engineering and Sciences at Unicamp (Fapesp grant 2013/08293-7)
