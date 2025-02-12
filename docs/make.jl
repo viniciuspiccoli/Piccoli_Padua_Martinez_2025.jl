@@ -24,14 +24,8 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/m3g/Piccoli_Padua_Martinez_2025.jl.git",
+    repo = "github.com/viniciuspiccoli/Piccoli_Padua_Martinez_2025.jl.git",
     target = "build",
     branch = "gh-pages",
     versions = ["stable" => "v^", "v#.#"],
 )
-# Documenter can also automatically deploy documentation to gh-pages.
-# See "Hosting Documentation" and deploydocs() in the Documenter manual
-# for more information.
-#=deploydocs(
-    repo = "<repository url>"
-)=#
